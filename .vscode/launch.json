@@ -4,16 +4,13 @@
   "version": "0.2.0",
   "configurations": [
 
+
       {
             "name": "Python: Current File (Integrated Terminal)",
             "type": "python",
             "request": "launch",
             "program": "${file}",
             "console": "internalConsole",
-            "env": {
-              "STRIPE_PUBLIC_KEY": "pk_test_51N2uY6LAYyDyNZ9MFKIMuGOIZrlLJ9oqEEUcpZ0U408gZ0jIsKAQ4IzPQF8X5v1GT0YXFhBkjk6QJRib7gYIgHwp00NTPJpMV0",
-              "STRIPE_SECRET_KEY": "sk_test_51N2uY6LAYyDyNZ9MwJu7y5xwou2wMVVgPrnuU1egbQTgcz3gUCtIZUs1gBdNFtnMRP21Y7tv5xHVt7IayN57bCw000UgwnKffA"
-            },
         }
       
   ]
